@@ -5,7 +5,6 @@ using UnityEngine;
 
 namespace Klak.Spout
 {
-    [ExecuteInEditMode]
     [AddComponentMenu("Klak/Spout/Spout Sender")]
     public sealed class SpoutSender : MonoBehaviour
     {
